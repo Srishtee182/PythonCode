@@ -1,0 +1,11 @@
+#test
+"""
+test
+multi
+line
+comment
+"""
+print("test","binding",end=',')
+print("test""binding")
+print("C:\"rest")
+print("C:\\nest")
