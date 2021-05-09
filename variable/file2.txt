@@ -1,0 +1,2 @@
+The tell() method returns the current file position in a file stream.
+Tip: You can change the current file position with the seek() method.
